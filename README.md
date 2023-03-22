@@ -1,5 +1,6 @@
 # UTS-PAM-Astari-Kinanti-Putri-Rei-120140013
-
+Aplikasi pemutar beberapa lagu NCT DREAM
+https://drive.google.com/drive/folders/1OhQyspQom7du6IgiI_7O1nMB2hIQpXIK?usp=share_link
 1. Halaman Utama
 <img src="https://github.com/aareii/UTS-PAM-Astari-Kinanti-Putri-Rei-120140013/blob/main/output/Halaman%20Utama.jpg?raw=true" width="300" height="800">
 2. Detail Item 1
